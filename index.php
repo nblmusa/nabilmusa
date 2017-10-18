@@ -46,7 +46,7 @@ hr {
 
 <div class="bgimg">
   <div class="topleft">
-    <p>Logo</p>
+    <p>NABIL MUSA</p>
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
@@ -54,7 +54,7 @@ hr {
     <p>35 days left</p>
   </div>
   <div class="bottomleft">
-    <p>Some text</p>
+    <p>“To reach your greatest potential you'll have to fight your greatest fears.”</p>
   </div>
 </div>
 
